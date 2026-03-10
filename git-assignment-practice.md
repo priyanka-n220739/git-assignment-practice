@@ -74,7 +74,7 @@ Syntax : git status
 
 Purpose : Shows the current state of the repository such as modified files, staged files, and untracked files.
 
-Execution 
+Execution
 
 Example : git status
 
@@ -84,7 +84,7 @@ Syntax : git log
 
 Purpose : Displays the complete commit history of the repository.
 
-Execution 
+Execution
 
 Example : git log
 
@@ -211,44 +211,6 @@ Syntax : git mv oldname newname
 Purpose : Renames or moves a file and tracks the change in Git.
 
 Execution Example : git mv test.txt newfile.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
